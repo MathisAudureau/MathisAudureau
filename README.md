@@ -22,7 +22,9 @@ I have never worked internally in a project before. My research is in progress!
 
 # 💻 Information about me 
 ・ I learned javascript with [OpenClassrooms](https://openclassrooms.com/fr/)                                                                                                   
-・ I actually learn web development whit [Grafikart](https://grafikart.fr)
+・ I actually learn web development whit [Grafikart](https://grafikart.fr)                                                                                                       
+・ I develop with IDE [Visual Studio Code](https://code.visualstudio.com/)                                                                                                      
+・ I develop sinc six months
 
 # 🔗 Contact me !
 
