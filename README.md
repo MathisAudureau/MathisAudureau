@@ -20,9 +20,13 @@ In the future, I would like to study in development!
 
 I have never worked internally in a project before. My research is in progress!
 
+# 💻 Information about me 
+・ I learned javascript with [OpenClassrooms](https://openclassrooms.com/fr/)                                                                                                   
+・ I actually learn web development whit [Grafikart](https://grafikart.fr)
+
 # 🔗 Contact me !
 
-・Email adress : mathisaud.pro@gmail.com                                                                                                                                        
-・Discord tag : Mathis#1999                                                                                                                                                
-・Twitter : @MathisDesigners
+・ Email adress : mathisaud.pro@gmail.com                                                                                                                                       
+・ Discord tag : Mathis#1999                                                                                                                                                
+・ Twitter : @MathisDesigners
 
