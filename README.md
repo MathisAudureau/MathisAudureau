@@ -9,7 +9,7 @@ In the future, I would like to study in development!
 ・ TypeScript (Is a language that is supposed to improve JavaScript and make it more secure)
 
 # 📋 The framework I use
-・ Discord Factory (It is a framework which aims to make the creation of discord bot easier, it is associated with the discord.js library)
+・ [Discord Factory](https://discord-factory.com/) (It is a framework which aims to make the creation of discord bot easier, it is associated with the discord.js library)
 
 # 📚 Projet / man for which I worked externally
 ・ Sunalty (A minecraft server, I have developed a discord bot for this project!)                                                                                            
