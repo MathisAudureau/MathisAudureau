@@ -12,8 +12,8 @@ In the future, I would like to study in development!
 ・ [Discord Factory](https://discord-factory.com/) (It is a framework which aims to make the creation of discord bot easier, it is associated with the discord.js library)
 
 # 📚 Projet / man for which I worked externally
-・ [Sunalty](https://sunalty.fr/) (A minecraft server, I have developed a discord bot for this project!)                                                                                            
-・ AdventureSky (A minecraft server, I have developed a discord bot for this project!)                                                                                       
+・ [Sunalty](https://sunalty.fr/) (A minecraft server, I have developed a discord bot for this project!)                                                                                  
+・ [AdventureSky](https://adventuresky.fr/) (A minecraft server, I have developed a discord bot for this project!)                                                                                       
 ・ [WelzDesign](https://welz-design.fr) (It's a minecraft graphic designer, I have developed a discord bot for he)
 
 # 💼 Project for which I worked internally
