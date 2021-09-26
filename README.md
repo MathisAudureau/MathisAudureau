@@ -5,7 +5,7 @@ In the future, I would like to study in development!
 # 🔩 The languages I use
 ・ [HTML](https://developer.mozilla.org/fr/docs/Web/HTML) (Is a markup language used to structure and give meaning to web content)                                                  
 ・ [CSS](https://developer.mozilla.org/fr/docs/Web/CSS) (Is a style rule language used to format HTML content)                                                        
-・ [JavaScript](https://developer.mozilla.org/fr/docs/Web/Javascript) (Is a programming language that allows you to create dynamically updated content, control multimedia content, animate images)                                         
+・ [JavaScript](https://developer.mozilla.org/fr/docs/Web/Javascript) (Is a programming that allows you to create dynamically updated content, control multimedia content, animate images)                                         
 ・ [TypeScript](https://www.typescriptlang.org/) (Is a language that is supposed to improve JavaScript and make it more secure)
 
 # 📋 The framework I use
