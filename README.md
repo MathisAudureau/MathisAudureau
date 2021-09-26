@@ -14,7 +14,7 @@ In the future, I would like to study in development!
 # 📚 Projet / man for which I worked externally
 ・ Sunalty (A minecraft server, I have developed a discord bot for this project!)                                                                                            
 ・ AdventureSky (A minecraft server, I have developed a discord bot for this project!)                                                                                       
-・ WelzDesign (It's a minecraft graphic designer, I have developed a discord bot for he)
+・ [WelzDesign](https://welz-design.fr)(It's a minecraft graphic designer, I have developed a discord bot for he)
 
 # 💼 Project for which I worked internally
 
