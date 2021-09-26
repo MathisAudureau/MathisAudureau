@@ -3,10 +3,10 @@ Hey, my name is Mathis, I'm 14, I'm a javascript developer, and I'm learning web
 In the future, I would like to study in development!
 
 # 🔩 The languages I use
-・ HTML (Is a markup language used to structure and give meaning to web content)                                                  
-・ CSS (Is a style rule language used to format HTML content)                                                        
-・ JavaScript (Is a programming language that allows you to create dynamically updated content, control multimedia content, animate images)                                         
-・ TypeScript (Is a language that is supposed to improve JavaScript and make it more secure)
+・ [HTML](https://developer.mozilla.org/fr/docs/Web/HTML) (Is a markup language used to structure and give meaning to web content)                                                  
+・ [CSS](https://developer.mozilla.org/fr/docs/Web/CSS) (Is a style rule language used to format HTML content)                                                        
+・ [JavaScript](https://developer.mozilla.org/fr/docs/Web/Javascript) (Is a programming language that allows you to create dynamically updated content, control multimedia content, animate images)                                         
+・ [TypeScript](https://www.typescriptlang.org/)(Is a language that is supposed to improve JavaScript and make it more secure)
 
 # 📋 The framework I use
 ・ [Discord Factory](https://discord-factory.com/) (It is a framework which aims to make the creation of discord bot easier, it is associated with the discord.js library)
