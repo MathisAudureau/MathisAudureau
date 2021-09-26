@@ -1,5 +1,5 @@
 # 👋 Hey all !
-Hey, my name is Mathis, I'm 14, I'm a javascript developer, and I'm learning web development (Front end)!
+・  Hey, my name is Mathis, I'm 14, I'm a javascript developer, and I'm learning web development (Front end)!
 In the future, I would like to study in development!
 
 # 🔩 The languages I use
@@ -18,7 +18,7 @@ In the future, I would like to study in development!
 
 # 💼 Project for which I worked internally
 
-I have never worked internally in a project before. My research is in progress!
+・ I have never worked internally in a project before. My research is in progress!
 
 # 💻 Information about me 
 ・ I learned javascript with [OpenClassrooms](https://openclassrooms.com/fr/)                                                                                                   
