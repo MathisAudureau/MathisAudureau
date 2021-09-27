@@ -23,8 +23,8 @@ In the future, I would like to study in development!
 # 💻 Information about me 
 ・ I learned javascript with [OpenClassrooms](https://openclassrooms.com/fr/)                                                                                                   
 ・ I actually learn web development whit [Grafikart](https://grafikart.fr)                                                                                                       
-・ I develop with IDE [Visual Studio Code](https://code.visualstudio.com/)                                                                                                      
-・ I develop sinc six months
+・ I develop with the IDE [Visual Studio Code](https://code.visualstudio.com/)                                                                                                      
+・ I develop since six months
 
 # 🔗 Contact me !
 
