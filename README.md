@@ -1,9 +1,10 @@
 # 👋 Hey all !
+<h3> 🤗 Presentation</h3>
 ・  Hey, my name is Mathis, I'm 14, I'm aprentic web developer (Front end)!
 I'm in first time, JavaScript developer (With discord.js)
 In the future, I would like to study in development!
 
-# 💻 My technologie
+<h3>💻 My technologie</h3>
 <h4>・ Web languages</h4>
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -30,7 +31,7 @@ In the future, I would like to study in development!
   <img alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
 </p>
                                 
-# 🔎 Contact me
+<h3>🔎 Contact me</h3>
 <p>
   <a href="https://discord.gg/RqwCGQrezv"><img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://twitter.com/MathisDevs"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
