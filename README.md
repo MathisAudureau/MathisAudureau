@@ -13,29 +13,13 @@ In the future, I would like to study in development!
 <h4>・ Scripting languages</h4>
 <p>
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
-</p>                                   
+</p>   
 
-# 📋 The framework I use
-・ [Discord Factory](https://discord-factory.com/) (It is a framework which aims to make the creation of discord bot easier, it is associated with the discord.js library)
+<h4>・ Languages being learned</h4>
+<p>
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+</p>                                  
 
-# 📚 Projet / man for which I worked externally
-・ [Sunalty](https://sunalty.fr/) (A minecraft server, I have developed a discord bot for this project!)                                                                                  
-・ [AdventureSky](https://adventuresky.fr/) (A minecraft server, I have developed a discord bot for this project!)                                                                                       
-・ [WelzDesign](https://welz-design.fr) (It's a minecraft graphic designer, I have developed a discord bot for he)
-
-# 💼 Project for which I worked internally
-
-・ I have never worked internally in a project before. My research is in progress!
-
-# 💻 Information about me 
-・ I learned javascript with [OpenClassrooms](https://openclassrooms.com/fr/)                                                                                                   
-・ I actually learn web development whit [Grafikart](https://grafikart.fr)                                                                                                       
-・ I develop with the IDE [Visual Studio Code](https://code.visualstudio.com/)                                                                                                      
-・ I develop since six months
-
-# 🔗 Contact me !
-
-・ Email adress : mathisaud.pro@gmail.com                                                                                                                                       
-・ Discord tag : Mathis#1999                                                                                                                                                
-・ Twitter : @MathisDesigners
 
