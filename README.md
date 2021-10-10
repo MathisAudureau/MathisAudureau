@@ -2,11 +2,13 @@
 ・  Hey, my name is Mathis, I'm 14, I'm aprentic web developer (Front end)!
 In the future, I would like to study in development!
 
-# 🔩 The languages I use
+# 🔩 My technologie
+<h5>Web languages</h5>
+<p>
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="SAAS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>                                    
-・ [Javascript](https://www.javascript.com) (Is a language for the animations and others for you web site !) (In learning)
+  <img alt="SAAS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>  
+</p>                                  
 
 # 📋 The framework I use
 ・ [Discord Factory](https://discord-factory.com/) (It is a framework which aims to make the creation of discord bot easier, it is associated with the discord.js library)
