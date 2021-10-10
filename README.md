@@ -8,7 +8,12 @@ In the future, I would like to study in development!
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="SAAS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>  
-</p>                                  
+</p>
+
+<h4>・ Scripting languages</h4>
+<p>
+  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+</p>                                   
 
 # 📋 The framework I use
 ・ [Discord Factory](https://discord-factory.com/) (It is a framework which aims to make the creation of discord bot easier, it is associated with the discord.js library)
