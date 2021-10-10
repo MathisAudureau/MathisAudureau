@@ -2,7 +2,7 @@
 ・  Hey, my name is Mathis, I'm 14, I'm aprentic web developer (Front end)!
 In the future, I would like to study in development!
 
-# 🔩 My technologie
+# 💻 My technologie
 <h4>・ Web languages</h4>
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
