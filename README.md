@@ -3,9 +3,9 @@
 In the future, I would like to study in development!
 
 # 🔩 The languages I use
-・ [HTML](https://developer.mozilla.org/fr/docs/Web/HTML) (Is a markup language used to structure and give meaning to web content)                                                  
-・ [CSS](https://developer.mozilla.org/fr/docs/Web/CSS) (Is a style rule language used to format HTML content)                                                        
-・ [SASS](https://sass-lang.com/) (SASS is the most mature, stable, and powerful professional grade CSS extension language in the world.)                                         
+  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="SAAS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>                                    
 ・ [Javascript](https://www.javascript.com) (Is a language for the animations and others for you web site !) (In learning)
 
 # 📋 The framework I use
