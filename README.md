@@ -4,3 +4,6 @@ I am currently learning Java to provide in the future developed plugins on the g
 
 # 📊 Stats: 
 <img align="center" alt="My stats" src="https://github-readme-stats.vercel.app/api?username=MathisDevs&show_icons=true&hide_border=true" />
+<img align="center" alt="My stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathisDevs&show_icons=true&layout=compact&hide_border=true" />
+
+
