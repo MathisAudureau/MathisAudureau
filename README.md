@@ -11,7 +11,6 @@ I am currently learning Java to provide in the future developed plugins on the g
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react // react native" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-<img src="https://th.bing.com/th/id/OIP.GVHKR2sgnfmMTmeiUlPmpQHaFc?pid=ImgDet&rs=1" alt="git" width="40" height="40"/>
 </p>
 
 # 📊 Stats: 
