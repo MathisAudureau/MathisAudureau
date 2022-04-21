@@ -1,20 +1,11 @@
-# Mathis Audureau
-My name is Mathis, I am a young developer specialized in typescript and the different technologies using it!
-I am currently learning Java to provide in the future developed plugins on the game "Minecraft".
+#Audureau Mathis
+My name is Mathis, I am a French young student. I am specialized in Javascript & Typescript. I'm enthusiastic about the web and I'm always looking for new challenges. I like make web apps with React and y actually learning Adonis for the backend. I started the development by making discord bots. Otherwise, I like mathematics & algorithms.
 
-# 💻 Languages and tools:
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react // react native" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-</p>
-
-# 📊 Stats: 
-<img align="center" alt="My stats" src="https://github-readme-stats.vercel.app/api?username=MathisAudureau&show_icons=true&hide_border=true" />
-<img align="center" alt="My stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathisAudureau&show_icons=true&layout=compact&hide_border=true" />
-
-
+##Language & Tools
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="Typescript" width="26px"> 
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="Javascript" width="26px">
+<img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" alt="HTML" width="26px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="26px"> <br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwinds" width="26px">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" alt="Tailwinds" width="26px"> <br>
+<img src="https://cdn-icons.flaticon.com/png/512/4494/premium/4494740.png?token=exp=1650546034~hmac=8a8d7bd3bf98a9919d0a50c01a253963" alt="Git" width="26px">
