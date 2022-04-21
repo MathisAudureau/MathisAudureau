@@ -8,11 +8,11 @@ My name is Mathis, I am a French young student. I am specialized in Javascript &
 <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" alt="HTML" width="26px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="26px"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="35px" height="40"/>
-<img src="https://cdn-icons.flaticon.com/png/512/3066/premium/3066252.png?token=exp=1650547369~hmac=86443d9ffd1f92af7087710d4fe833f0" alt="React" width="26px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwinds" width="26px"> <br>
 <img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="CSS" width="26px"> 
 <img src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" alt="CSS" width="26px"> 
 <img src="https://resources.jetbrains.com/storage/products/phpstorm/img/meta/phpstorm_logo_300x300.png" alt="CSS" width="26px">
+ 
 
 </p>
 
