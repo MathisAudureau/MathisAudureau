@@ -1,7 +1,7 @@
 # Audureau Mathis
-```
+
 My name is Mathis, I am a French young student. I am specialized in Javascript & Typescript. I'm enthusiastic about the web and I'm always looking for new challenges. I like make web apps with React and y actually learning Adonis for the backend. I started the development by making discord bots. Otherwise, I like mathematics & algorithms.
-```
+
 ## Language & Tools
 <p>
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="Javascript" width="26px">
