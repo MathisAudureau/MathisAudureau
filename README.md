@@ -12,13 +12,6 @@ My name is Mathis, I am a French young student. I am specialized in Javascript &
 
 </p>
 
-## Contact Me
-
-<a href="https://twitter.com/MathisDevs">
-<img src="https://cdn-icons.flaticon.com/png/512/3256/premium/3256013.png?token=exp=1650547957~hmac=160a21573f9e88103da790be756c5e6a" alt="Twitter" width="26px">   
-</a>
-
-
 
 
 
