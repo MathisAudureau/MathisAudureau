@@ -5,8 +5,8 @@ My name is Mathis, I am a French young student. I am specialized in Javascript &
 ## Language & Tools
 <p>
  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="26px">
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="Typescript" width="26px">
-<img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="CSS" width="26px"> </br>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="Typescript" width="26px"> </br>
+<img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="CSS" width="26px">
 <img src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" alt="CSS" width="26px">
  
 
