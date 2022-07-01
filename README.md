@@ -1,9 +1,9 @@
 ```ts
 export default class MathisAudureau {
-  private static discord: string = "Mathïs#1799"
+  private static DISCORD: string = "Mathïs#1799"
 
   public static setDiscord(userTag: string) {
-    this.Discord = userTag
+    this.DISCORD = userTag
   }
 
   public static getInfo() {
@@ -13,7 +13,7 @@ export default class MathisAudureau {
     }
   }
 
-  public static getLangage() {
+  public static getLanguage() {
     return {
       front_end: ["HTML", "CSS", "NextJS", "React", "TailwindCSS", "Bootstrap"],
       back_end: ["JavaScript", "TypeScript", "Adonis"],
@@ -22,6 +22,6 @@ export default class MathisAudureau {
   }
 
  public static getMedia() {
-    return this.Discord
+    return this.DISCORD
   }
 ```
