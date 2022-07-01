@@ -21,7 +21,7 @@ export default class MathisAudureau {
     }
   }
 
- public static getMedia() {
+  public static getMedia() {
     return this.DISCORD
   }
 }  
